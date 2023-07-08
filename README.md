@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ByteChat<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning solidity <br>💬 Ask me about web development <br>⚡ I love to make friends ;)
+🔭 I’m currently working on ByteChat<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Qwik JS <br>💬 Ask me about web development <br>⚡ I love to make friends ;)
 
 
 ## 🌐 Socials:
